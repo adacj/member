@@ -1,0 +1,33 @@
+*{
+    box-sizing: border-box;
+}
+body{
+    margin: 0;
+    font: 16px sans-serif;
+}
+table{
+    width:45rem;
+    border:1px black solid;
+    margin:0 auto;
+}
+table th{
+    min-width:4.2rem;
+    max-width:11rem;
+}
+table tr{
+    height:2rem;
+}
+tr td{
+    text-align:center;
+}
+div{
+    width:45rem;
+    height: 2rem;
+    margin:10% auto 1.5rem;
+}
+div button{
+    float: right;
+}
+form table{
+    width:30rem;
+}
